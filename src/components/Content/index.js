@@ -20,18 +20,18 @@ const Content = () => {
                 <div className='font-roboto font-normal text-[17px] text-[#000000B2]'>
                     <p>July 2022 - January 2023</p>
                     <a href='https://pdpembangunansulut.com/' target={'_blank'}>
-                        <p className='my-[8px] hover:bg-sky-100 cursor-pointer'>⊛ Website for Perusahaan Daerah Pembangunan Sulawesi Utara</p>
+                        <p className='my-[8px] hover:bg-sky-100 hover:underline cursor-pointer w-[490px]'>⊛ Website for Perusahaan Daerah Pembangunan Sulawesi Utara</p>
                     </a>
                     <a href='https://ritkolautsa-fikunklab.web.app/' target={'_blank'}>
-                        <p className='my-[8px] hover:bg-sky-100 cursor-pointer'>⊛ Website for the Ritkola-Utsa events</p>
+                        <p className='my-[8px] hover:bg-sky-100 hover:underline cursor-pointer w-[285px]'>⊛ Website for the Ritkola-Utsa events</p>
                     </a>
                     <a href='https://tour4kota-unklabfik.web.app/' target={'_blank'}>
-                        <p className='my-[8px] hover:bg-sky-100 cursor-pointer'>⊛ Website for the JarankPulang band's 4 city tour</p>
+                        <p className='my-[8px] hover:bg-sky-100 hover:underline cursor-pointer w-[375px]'>⊛ Website for the JarankPulang band's 4 city tour</p>
                     </a>
                     <a href='http://www.airmadidi-rentalcarmanado.com/' target={'_blank'}>
-                        <p className='my-[8px] hover:bg-sky-100 cursor-pointer'>⊛ Website for Airmadidi-rentalcarmanado</p>
+                        <p className='my-[8px] hover:bg-sky-100 hover:underline cursor-pointer w-[320px]'>⊛ Website for Airmadidi-rentalcarmanado</p>
                     </a>
-                    <p className='mt-[8px] hover:bg-sky-100 cursor-pointer' onClick={handleClick}>⊛ Back-End for the application of Bapenda Sulawesi Utara (Bapenda Sulut Mobile)</p>
+                    <p className='mt-[8px] hover:bg-sky-100 hover:underline cursor-pointer' onClick={handleClick}>⊛ Back-End for the application of Bapenda Sulawesi Utara (Bapenda Sulut Mobile)</p>
                 </div>
             </div>
         </div>
@@ -59,19 +59,19 @@ const Content = () => {
             <Title text="06 LINKS" />
             <div className='flex items-center font-roboto font-normal text-[17px] text-[#000000B2]'>
                 <a href="https://www.linkedin.com/in/andrey-desayli-b1672a249/" target="{_blank}">
-                    <div className='cursor-pointer underline' >LinkedIn</div>
+                    <div className='cursor-pointer underline hover:bg-sky-100' >LinkedIn</div>
                 </a>
                 <div className='h-[12px] w-[2px] bg-[#000000B2] mx-[10px]'></div>
                 <a href="https://www.instagram.com/andrey.desayli/" target="{_blank}">
-                    <div className='cursor-pointer underline' >Instagram</div>
+                    <div className='cursor-pointer underline hover:bg-sky-100' >Instagram</div>
                 </a>
                 <div className='h-[12px] w-[2px] bg-[#000000B2] mx-[10px]'></div>
                 <a href="https://web.facebook.com/andre.desayli" target="{_blank}">
-                    <div className='cursor-pointer underline' >Facebook</div>
+                    <div className='cursor-pointer underline hover:bg-sky-100' >Facebook</div>
                 </a>
                 <div className='h-[12px] w-[2px] bg-[#000000B2] mx-[10px]'></div>
                 <a href="https://github.com/andreydesayli" target="{_blank}">
-                    <div className='cursor-pointer underline' >Github</div>
+                    <div className='cursor-pointer underline hover:bg-sky-100' >Github</div>
                 </a>
             </div>
         </div>
