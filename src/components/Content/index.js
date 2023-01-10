@@ -15,7 +15,7 @@ const Content = () => {
         <div className='flex mt-[50px]'>
             <Title text="02 EXPERIENCE"/>
             <div>
-                <h1 className='font-roboto font-semibold text-[17px]'>Internship PT Klabat Tekno Perkasa</h1>
+                <h1 className='font-roboto font-semibold text-[17px]'>Internship (PT Klabat Tekno Perkasa)</h1>
                 <p className='font-roboto font-normal text-[17px] mt-[3px] mb-[5px]'>Front-End & Back-End Developer</p>
                 <div className='font-roboto font-normal text-[17px] text-[#000000B2]'>
                     <p>July 2022 - January 2023</p>
