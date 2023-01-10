@@ -24,8 +24,8 @@ function App() {
         <Content />
       </div>
       <div className="visible xl:invisible flex flex-col items-center">
-        <img className="absolute w-full" src={MobileBg} alt=''/>
-        <h1 className="font-roboto font-medium text-[20px] w-[300px] mt-[200px]">Sorry, currently only available for desktop 😊</h1>
+        <img className="absolute" src={MobileBg} alt=''/>
+        <h1 className="font-roboto font-medium text-[20px] mt-[200px]">Sorry, currently only available for desktop 😊</h1>
       </div>
     </div>
   );
